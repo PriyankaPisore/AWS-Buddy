@@ -1,0 +1,14 @@
+S3 buckets,Region,Number of objects ,Bill Per Month ,Public Access ,Versioning,Server access logging
+photos-archive,us-east-1,2300,$15.67,Enable,Disable,Enable
+backups-2023,us-east-1,1200,$10.45,Enable,Enable,Disable
+project-objects,us-east-1,9800,$45.23,Disable,Enable,Disable
+marketing-docs,us-east-1,5500,$32.78,Disable,Disable,Enable
+user-data,us-west-2,750,$5.12,Enable,Enable,Enable
+logs-archive,us-west-2,3200,$22.15,Disable,Enable,Disable
+media-files,us-west-2,880,$7.90,Enable,Enable,Enable
+research-projects,us-east-1,4300,$18.56,Enable,Enable,Disable
+shared-documents,us-east-2,610,$4.78,Disable,Enable,Enable
+development-data,us-east-1,3100,$17.89,Enable,Disable,Enable
+customer-files,us-east-1,2000,$13.45,Disable,Disable,Disable
+test-environment,us-west-1,1400,$9.20,Enable,Enable,Enable
+desktop-environment,us-west-1,1400,$9.20,Enable,Disable,Enable
