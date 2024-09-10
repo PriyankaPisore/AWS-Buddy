@@ -1,0 +1,10 @@
+.profile
+
+node_modules/
+
+venv/
+
+.DS_Store  
+cache/
+pandasai.log
+__pycache__
